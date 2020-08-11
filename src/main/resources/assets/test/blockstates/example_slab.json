@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "type=first": { "model": "test:block/example_slab_first" },
+    "type=second": { "model": "test:block/example_slab_second" },
+    "type=third": { "model": "test:block/example_slab_third" },
+    "type=fourth": { "model": "test:block/example_slab_fourth" },
+    "type=all": { "model": "test:block/example_block" }
+  }
+}

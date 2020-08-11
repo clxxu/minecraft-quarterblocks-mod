@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "test:block/small_steamer" },
+    "facing=south": { "model": "test:block/small_steamer", "y": 180 },
+    "facing=west":  { "model": "test:block/small_steamer", "y": 270 },
+    "facing=east":  { "model": "test:block/small_steamer", "y": 90 }
+  }
+}

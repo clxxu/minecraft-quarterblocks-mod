@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "test:blocks/example_block",
+    "bottom": "test:blocks/example_block",
+    "top": "test:blocks/example_block",
+    "side": "test:blocks/example_block",
+    "inside": "test:blocks/example_block"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0 ],
+      "to": [ 16, 4, 16 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

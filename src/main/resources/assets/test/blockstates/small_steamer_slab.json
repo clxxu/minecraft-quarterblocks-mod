@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "test:block/small_steamer_slab" },
+    "type=top": { "model": "test:block/small_steamer_slab_top" },
+    "type=double": { "model": "test:block/small_steamer" }
+  }
+}
